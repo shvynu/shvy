@@ -6,7 +6,7 @@
 
 - 📈 I'm a ML and AI Enthusiast!
 - 💻 I am a 3rd year computer science undergrad at op jindal University.
-- 🌱 I’m currently learning machine learning and DSA.
+- 🌱 I’m currently learning and working on ML projects.
 - ⚡ Learning something new everyday keps my dopamine levels high.
 
 ---
