@@ -5,7 +5,6 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 - 📈 I'm a ML and AI Enthusiast!
-- 💻 I am a 3rd year computer science undergrad at op jindal University.
 - 🌱 I’m currently learning and working on ML projects.
 - ⚡ Learning something new everyday keps my dopamine levels high.
 
