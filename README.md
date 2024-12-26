@@ -21,7 +21,7 @@
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=Ubuntu)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows)&nbsp;
 ![SQL]( https://img.shields.io/badge/-SQL-333333?style=flat&logo=SQL)&nbsp;
-![Azure]( https://img.shields.io/badge/-SQL-333333?style=flat&logo=Azure)&nbsp;
+![Azure]( https://img.shields.io/badge/-Azure-333333?style=flat&logo=Azure)&nbsp;
 
 
 
