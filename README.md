@@ -20,7 +20,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=Ubuntu)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows)&nbsp;
-![SQL]( https://img.shields.io/badge/-Sql-333333?style=flat&logo=Sql)&nbsp;
+![SQL]( https://img.shields.io/badge/-SQL-333333?style=flat&logo=SQL)&nbsp;
+![Azure]( https://img.shields.io/badge/-SQL-333333?style=flat&logo=Azure)&nbsp;
 
 
 
